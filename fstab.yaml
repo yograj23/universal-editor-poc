@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/bin/franklin.delivery/yograj23/universal-editor-poc/main"
+    url: "https://author-p162613-e1741353.adobeaemcloud.com/bin/franklin.delivery/yograj23/universal-editor-poc/main"
     type: "markup"
     suffix: ".html"
